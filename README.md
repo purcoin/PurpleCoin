@@ -1,7 +1,7 @@
 PurpleCoin integration/staging tree
 ================================
 
-http://www.purplecoin.io
+http://www.purplecoin.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2013-2014 PurpleCoin Developers
@@ -19,7 +19,7 @@ PurpleCoin is a lite version of Bitcoin using X11 as a proof-of-work algorithm.
  - Anonymous blockchain using DarkSend technology (Based on CoinJoin): Beta Testing
 
 For more information, as well as an immediately useable, binary version of
-the PurpleCoin client sofware, see http://www.purplecoin.io.
+the PurpleCoin client sofware, see http://www.purplecoin.org .
 
 License
 -------
