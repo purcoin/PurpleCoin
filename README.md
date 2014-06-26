@@ -1,4 +1,7 @@
 PurpleCoin
 ==========
 
-PurpleCoin - Protected, Anonymous, Awesome
+PurpleCoin - Protected, Anonymous, Awesome!
+
+Clone this
+==========
